@@ -25,24 +25,5 @@ print(friends.index("carry"))#you have to use the print keyword before friends.i
 
 
 print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
-print(friends)
 
-print(friends)
-
-print(friends)
-
-print(friends)
-
-print(friends)
-print(friends)
-print(friends)
 friends.clear()
