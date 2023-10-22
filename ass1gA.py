@@ -20,4 +20,4 @@ for i in range(0,l):
 print("The duplicate letters in the string are: ")
 for i in range (0,l):
     if lt[i]!="*":
-        print(lt[i])
+        print(lt[i]),
